@@ -148,6 +148,9 @@ th {
     }
 }
 /*Sektioner styles*/
+.sektioner {
+    padding-bottom: 10px;
+}
 .sektioner img {
     margin-top: 10px;
     margin-bottom: 5px;
